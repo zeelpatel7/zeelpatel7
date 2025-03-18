@@ -54,4 +54,4 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 ### Here are a few of my projects/coursework:
 
 ## Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/zeelpatel7/))
