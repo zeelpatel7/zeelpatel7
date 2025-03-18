@@ -54,7 +54,7 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 - [Turing Bots vs Human Developers](https://github.com/zeelpatel7/Turing-Test-for-AI-generated-Code) (Dec 2024): Investigated AI-generated versus human-written code using 1.36 TiB GitHub data on GCP, analyzing programming trends, repository growth, and commit patterns to evaluate AI coding capabilities.
 - [Corporate Data Analysis and Insights Repository](https://github.com/zeelpatel7/Corporate-Data-Analysis-and-Insights-Repository) (Nov 2024): Conducted comprehensive data analysis and generated actionable insights for three businesses—McDonald's, Planet Fitness, and Verizon—focusing on exploratory analysis, predictive modeling, and business recommendations.
 - [Business Case Studies with AI, Deep Learning, and NLP](https://github.com/zeelpatel7/Business-Case-Studies-with-Data-Science) (Aug 2024): Conducted five in-depth business case studies (e.g., customer segmentation, sales forecasting, sentiment analysis, medical diagnostics, employee retention) leveraging AI, Deep Learning, and NLP techniques to solve complex business challenges and derive actionable insights.
-- Check out my published research papers on [Machine Learning, Data Analytics, and Data Processing]((https://www.researchgate.net/profile/Zeel-Patel-38?ev=hdr_xprf)) on ResearchGate.
+- Check out my published research papers on [Machine Learning, Data Analytics, and Data Processing](https://www.researchgate.net/profile/Zeel-Patel-38?ev=hdr_xprf) on ResearchGate.
 
 
 ### Connect with Me on LinkedIn
