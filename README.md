@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 Aspiring Data Scientist | Machine Learning Enthusiast | Big Data Explorer
 
-Master's in Applied Data Science @ UChicago  
-
 I'm a Master's student in [Applied Data Science](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/) at the University of Chicago, passionate about machine learning, big data, and AI-driven problem-solving. With experience in Python, SQL, PySpark, and data analytics, I thrive on transforming complex datasets into actionable insights. I have a background in big data, risk assessment, and cloud computing, with hands-on experience in consulting and research. Currently, I'm exploring deep learning and its applications in finance and trading. Always eager to learn and collaborate, I aim to bridge the gap between data science and real-world decision-making.
 
 - Passionate about **Data Science & AI**  
