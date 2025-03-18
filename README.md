@@ -30,7 +30,7 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="centre">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>
   <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50"/></a>
   <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50"/></a>
