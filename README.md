@@ -53,5 +53,5 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 
 ### Here are a few of my projects/coursework:
 
-## Connect with Me on LinkedIn
+### Connect with Me on LinkedIn
 <a href="https://www.linkedin.com/in/zeelpatel7/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50"/></a>
