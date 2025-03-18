@@ -31,23 +31,25 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/></a>
-  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50"/></a>
-  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
-  <a href="https://www.tableau.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="Tableau" width="50" height="50"/></a>
-  <a href="https://powerbi.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50" height="50"/></a>
-  <a href="https://hadoop.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="50" height="50"/></a>
-  <a href="https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_MapReduce_Logo.svg" alt="MapReduce" width="50" height="50"/></a>
-  <a href="https://hive.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Hive" width="50" height="50"/></a>
-  <a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" height="50"/></a>
-  <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50" height="50"/></a>
-  <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50" height="50"/></a>
-  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50"/></a>
-  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/></a>
-  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="50" height="50"/></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50"/></a>
+  <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50"/></a>
+  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50"/></a>
+  <a href="https://www.tableau.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Tableau_logo.svg" alt="Tableau" width="50"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel" width="50"/></a>
+  <a href="https://hadoop.apache.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" alt="Hadoop" width="50"/></a>
+  <a href="https://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Mapreduce-logo.png" alt="MapReduce" width="50"/></a>
+  <a href="https://hive.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg" alt="Hive" width="50"/></a>
+  <a href="https://spark.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Spark" width="50"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="50"/></a>
+  <a href="https://cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="50"/></a>
+  <a href="https://kubernetes.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50"/></a>
+  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/></a>
+  <a href="https://spark.apache.org/docs/latest/api/python/"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="50"/></a>
 </p>
+
 
 
 
