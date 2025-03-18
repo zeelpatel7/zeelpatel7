@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 -->
 ## Hi there, I'm Zeel. 👋
 
-🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Big Data Explorer
-
-🎓 Master's in Applied Data Science @ UChicago  
+Aspiring Data Scientist | Machine Learning Enthusiast | Big Data Explorer
+Master's in Applied Data Science @ UChicago  
 
 ## 🌟 About Me
 - 🔬 Passionate about **Data Science & AI**  
