@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
 **zeelpatel7/zeelpatel7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Zeel Patel 👋
+## Hi there, I'm Zeel. 👋
 
 🚀 **Aspiring Data Scientist** | 📊 **Machine Learning Enthusiast** | 💡 **Big Data Explorer**  
 🎓 Master's in Applied Data Science @ UChicago  
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## 🌟 About Me
 - 🔬 Passionate about **Data Science & AI**  
 - 🏆 Experienced in **Python, SQL, PySpark, Machine Learning**  
-- 🌱 Currently learning **Deep Learning & Big Data**  
+- 🌱 Currently learning **Bayesian Modelling, GenAI, Machine Learning**  
 - 🎯 Interested in **Finance, Trading, and Sports Analytics**  
 - 📫 Reach me at: [zeelpatel7@gmail.com](mailto:your-email@example.com)
 
