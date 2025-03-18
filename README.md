@@ -20,13 +20,15 @@ Aspiring Data Scientist | Machine Learning Enthusiast | Big Data Explorer
 
 Master's in Applied Data Science @ UChicago  
 
-I'm a Master's student in Applied Data Science at the University of Chicago, passionate about machine learning, big data, and AI-driven problem-solving. With experience in Python, SQL, PySpark, and data analytics, I thrive on transforming complex datasets into actionable insights. I have a background in software development, risk assessment, and cloud computing, with hands-on experience in consulting and research. Currently, I'm exploring deep learning and its applications in finance and trading. Always eager to learn and collaborate, I aim to bridge the gap between data science and real-world decision-making.
+I'm a Master's student in [Applied Data Science](https://datascience.uchicago.edu/education/masters-programs/ms-in-applied-data-science/) at the University of Chicago, passionate about machine learning, big data, and AI-driven problem-solving. With experience in Python, SQL, PySpark, and data analytics, I thrive on transforming complex datasets into actionable insights. I have a background in big data, risk assessment, and cloud computing, with hands-on experience in consulting and research. Currently, I'm exploring deep learning and its applications in finance and trading. Always eager to learn and collaborate, I aim to bridge the gap between data science and real-world decision-making.
 
-- 🔬 Passionate about **Data Science & AI**  
-- 🏆 Experienced in **Python, SQL, PySpark, Machine Learning**  
-- 🌱 Currently learning **Bayesian Modelling, GenAI, Machine Learning**  
-- 🎯 Interested in **Finance, Trading, and Sports Analytics**  
-- 📫 Reach me at: [zeelpatel7@gmail.com](mailto:your-email@example.com)
+- Passionate about **Data Science & AI**  
+- Experienced in **Python, SQL, PySpark, Machine Learning**  
+- Currently learning **Bayesian Modelling, GenAI, Machine Learning**  
+- Interested in **Finance, Trading, and Sports Analytics**  
+- Reach me at: [academics.zeel@gmail.com](mailto:academics.zeel@gmail.com)
+
+Here are a few of my projects/coursework:
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -35,8 +37,6 @@ I'm a Master's student in Applied Data Science at the University of Chicago, pas
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-![Zeel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeelpatel7&show_icons=true&theme=radical)
 
 ![Zeel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeelpatel7&layout=compact&theme=radical)
 
