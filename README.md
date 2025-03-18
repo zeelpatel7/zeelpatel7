@@ -28,17 +28,14 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 - Interested in **Finance, Trading, and Sports Analytics**  
 - Reach me at: [academics.zeel@gmail.com](mailto:academics.zeel@gmail.com)
 
-Here are a few of my projects/coursework:
-
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
-![Zeel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeelpatel7&layout=compact&theme=radical)
+### Here are a few of my projects/coursework:
 
 ## 🌍 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
