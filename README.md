@@ -48,7 +48,7 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 
 ### Here are a few of my projects/coursework:
 
-- [**AlgoTradeX: Intelligent Automated Trading System**](https://github.com/zeelpatel7/Trading-System): Built a robust trading system using Python to analyze market data, execute automated trades, and manage portfolios efficiently.
+- [**AlgoTradeX: Intelligent Automated Trading System**](https://github.com/zeelpatel7/Trading-System) : Built a robust trading system using Python to analyze market data, execute automated trades, and manage portfolios efficiently.
 - [Crude Gasoline Dynamics: Cointegration Forecasting for Energy Arbitrage](https://github.com/zeelpatel7/Crude-Gasoline-Dynamics): Analyzed cointegration between gasoline and crude oil prices using statistical and deep learning models, providing valuable insights for optimized trading strategies in energy markets.
 
 
