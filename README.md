@@ -48,7 +48,7 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 
 ### Here are a few of my projects:
 
-- [**AlgoTradeX: Intelligent Automated Trading System**](https://github.com/zeelpatel7/Trading-System) (March 202%): Built a robust trading system using Python to analyze market data, execute automated trades, and manage portfolios efficiently.
+- [**AlgoTradeX: Intelligent Automated Trading System**](https://github.com/zeelpatel7/Trading-System) (March 2025): Built a robust trading system using Python to analyze market data, execute automated trades, and manage portfolios efficiently.
 - [Crude Gasoline Dynamics: Cointegration Forecasting for Energy Arbitrage](https://github.com/zeelpatel7/Crude-Gasoline-Dynamics) (March 2025): Analyzed cointegration between gasoline and crude oil prices using statistical and deep learning models, providing valuable insights for optimized trading strategies in energy markets.
 - [Web Application Vulnerability Analysis and Prediction](https://github.com/zeelpatel7/Web-Application-Vulnerability-Prediction) (Dec 2024): Built predictive models using Poisson Regression and Negative Binomial Modeling to forecast vulnerabilities in web applications.
 - [Turing Bots vs Human Developers](https://github.com/zeelpatel7/Turing-Test-for-AI-generated-Code) (Dec 2024): Investigated AI-generated versus human-written code using 1.36 TiB GitHub data on GCP, analyzing programming trends, repository growth, and commit patterns to evaluate AI coding capabilities.
