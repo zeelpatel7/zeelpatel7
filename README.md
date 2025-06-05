@@ -48,6 +48,7 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 
 ### Here are a few of my projects:
 
+- [**CheXRetriever: Text-to-Image Multimodal Retrieval on Medical X-rays**](https://github.com/zeelpatel7/CheXRetriever) (May 2025): Built a multimodal system that maps radiology text queries to chest X-rays using vision-language models for clinically relevant image retrieval.
 - [**AlgoTradeX: Intelligent Automated Trading System**](https://github.com/zeelpatel7/Trading-System) (March 2025): Built a robust trading system using Python to analyze market data, execute automated trades, and manage portfolios efficiently.
 - [Crude Gasoline Dynamics: Cointegration Forecasting for Energy Arbitrage](https://github.com/zeelpatel7/Crude-Gasoline-Dynamics) (March 2025): Analyzed cointegration between gasoline and crude oil prices using statistical and deep learning models, providing valuable insights for optimized trading strategies in energy markets.
 - [Web Application Vulnerability Analysis and Prediction](https://github.com/zeelpatel7/Web-Application-Vulnerability-Prediction) (Dec 2024): Built predictive models using Poisson Regression and Negative Binomial Modeling to forecast vulnerabilities in web applications.
