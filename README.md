@@ -49,7 +49,7 @@ I'm a Master's student in [Applied Data Science](https://datascience.uchicago.ed
 ### Here are a few of my projects:
 
 - [**Wiki Data Viewer**](https://github.com/zeelpatel7/wiki_data_viewer) (May 2025):
-  Developed a full-stack React.js + Flask web app with PostgreSQL to replace a disorganized data archive, enabling non-technical researchers to intuitively access decades of historical research data.
+  Developed a full-stack web app to replace a disorganized data archive, enabling non-technical researchers to intuitively access decades of historical research data.
   
 - [**CheXRetriever: Text-to-Image Multimodal Retrieval on Medical X-rays**](https://github.com/zeelpatel7/CheXRetriever) (May 2025):
   Built a multimodal system that maps radiology text queries to chest X-rays using vision-language models for clinically relevant image retrieval.
